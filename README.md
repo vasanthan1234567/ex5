@@ -1,7 +1,7 @@
 # Ex.05 Design a Website for Server Side Processing
 # Date:27.04.2025
 
-## Name: vasaanthan.N
+## Name: vasanthan.N
 ## Regno: 212224240180
 
 # AIM:
