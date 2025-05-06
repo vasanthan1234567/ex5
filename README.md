@@ -33,7 +33,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 # PROGRAM :
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -152,7 +152,7 @@ def rectarea(request):
         context['b'] = b
         print('Area=',area)
     return render(request,'mathapp/math.html',context)
-
+```
 # OUTPUT
 
 ![WhatsApp Image 2024-12-19 at 2 14 06 PM](https://github.com/user-attachments/assets/bed9b597-8f30-45ff-9c25-e2273a43e21b)
